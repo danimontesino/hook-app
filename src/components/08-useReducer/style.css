@@ -1,0 +1,6 @@
+body {
+	padding: 50px;
+}
+.complete {
+	text-decoration: line-through;
+}
